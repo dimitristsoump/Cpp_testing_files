@@ -45,10 +45,7 @@ class Shape
     public:
         double length;
         double width;
-        Shape(double l,double w){
-            length=l;
-            width=w;
-        }
+        
         double Area(){
             return length*width;
         }
@@ -57,6 +54,10 @@ class Shape
 class Circle : public Shape
 {
     public:
+        Circle(double l,double w){
+            length=l;
+            width=w;
+        }
         double area;
 };
 int main() //prepei na yparxei synarthsh pou na legetai main kai na einai type int !!!!
@@ -78,9 +79,10 @@ int main() //prepei na yparxei synarthsh pou na legetai main kai na einai type i
     int b=Ball1.Xm=20;
     cout << b << " "<< a <<endl;
     */
-    Shape orthogon(13,12);
-    Circle circl;
+    Shape orthogon;
+    orthogon.length=6;
+    Circle circl(3,4);
     circl.area=2;
 
-    cout << orthogon.Area() <<endl;
+    cout << circl.area <<endl<< circl.width <<endl<< orthogon.length<<endl;
 }
