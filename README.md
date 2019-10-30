@@ -1,4 +1,4 @@
-# Cpp_testing_files :sea:
+# Cpp_testing_files :computer:
 ## Read me sub-heading.
 
 Some changes over here.
