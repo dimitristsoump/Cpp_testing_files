@@ -15,3 +15,9 @@ Some changes to be done in the future:
 Hilighting something: `something`
 
 >Blockquoted phrase!
+
+This is a table!
+
+|heading1|heading2|hed.3|
+|---|---|---|
+|desc.1|desc.2|desc.3|
