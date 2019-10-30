@@ -6,8 +6,8 @@ Some changes to be done in the future:
 
 + Do this.
 + Do that.
- ~ Something more:
+ + Something more:
   1. attach this
   2. attach that
 
-[this is a site onnection]
+[this is a site onnection]()
