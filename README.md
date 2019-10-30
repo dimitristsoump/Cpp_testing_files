@@ -22,3 +22,5 @@ This is a table!
 |---|---|---|
 | desc.1 | desc.2 | desc.3 |
 |moreeeeee|moreeeeee2|moreeeeee3|
+
+How to make something **Bold**
