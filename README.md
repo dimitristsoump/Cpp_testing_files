@@ -3,8 +3,9 @@
 
 Some changes over here.
 Some changes to be done in the future:
-~ Do this.
-~ Do that.
+
++ Do this.
++ Do that.
  ~ Something more:
   1. attach this
   2. attach that
