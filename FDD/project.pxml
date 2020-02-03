@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tid_project>
+  <project_info modified="2020-01-30T10:06:14Z" name="" description="" folder="" />
+  <ship_particulars units="metres" modified="2020-01-30T10:06:55Z" loa="192.0000" lpp="185.0000" beam="32.0000" depth="19.0000" rake_of_keel="0.0000" stern_overhang="0.0000" stem_overhang="0.0000" minimum_z="0.0000" maximum_z="20.0000" design_draft="13.0000" summer_load_draft="13.0000" beam_overhang="0.0000" />
+  <parallel_midbody units="metres" modified="2020-01-30T10:06:14Z" tumble_in_y="0.0000" tumble_in_z="0.0000" tumble_out_y="0.0000" tumble_out_z="0.0000" bilge_type="none" bilge_flat_y="0.0000" bilge_flat_z="0.0000" bilge_radius_a="0.0000" bilge_radius_b="0.0000" rise_of_floor="0.0000" flat_of_keel="0.0000" aft_midbody_extent="0.0000" fore_midbody_extent="0.0000" />
+  <ship_details modified="2020-01-30T10:06:14Z" ship_name=" " ship_type=" " customer=" " flag=" " official_number=" " port_of_registry=" " manager=" " builder=" " yard_number="0" call_letters=" " year_of_build=" " class_number=" " imo_number="0" />
+  <frame_table units="metres" modified="2020-01-30T10:06:14Z">
+    <x_frames frame_0_position="0.0000" frame_direction="positive">
+      <transitions />
+    </x_frames>
+    <y_frames frame_0_position="0.0000" frame_direction="positive">
+      <transitions />
+    </y_frames>
+    <z_frames frame_0_position="0.0000" frame_direction="positive">
+      <transitions />
+    </z_frames>
+  </frame_table>
+  <units modified="2020-01-30T10:06:14Z" units_type="metres" decimal_places="3" />
+  <axes units="metres" modified="2020-01-30T10:06:14Z" axis_origin="ap" x="0.0000" x_axis_direction="fwd" y_axis_direction="port" ap="0.0000" fp="10.0000" x_axis="current_units" y_axis="current_units" z_axis="current_units" />
+  <faceter_settings modified="2020-01-30T10:06:14Z" faceter_setting="medium" max_subdivision_custom="30" aspect_ratio_custom="4.0000" normal_tolerance_custom="5.0000" surface_tolerance_custom="0.0100" number_of_increments_custom="8" />
+</tid_project>
